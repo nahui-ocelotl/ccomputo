@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="20145" height="19815">
+  <BOUNDS type="Window" width="19650" height="19815">
   </BOUNDS>
   <NODE id="20" nodename="Renderer (EX9)" systemname="Renderer (EX9)" componentmode="Hidden">
   <BOUNDS type="Node" left="4005" top="18315" width="100" height="100">
@@ -111,9 +111,9 @@
   </PIN>
   </NODE>
   <NODE id="30" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
-  <BOUNDS type="Box" left="3015" top="6345" width="405" height="0">
+  <BOUNDS type="Box" left="3015" top="6360" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|-2.5|">
+  <PIN pinname="Y Input Value" visible="1" values="|-0.6200000000000006|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -139,7 +139,7 @@
   <NODE id="32" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="4935" top="6375" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|1.5|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.62|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -203,9 +203,9 @@
   </PIN>
   </NODE>
   <NODE id="37" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
-  <BOUNDS type="Box" left="12600" top="6555" width="405" height="0">
+  <BOUNDS type="Box" left="12585" top="6540" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|-1.5|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.25|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -231,7 +231,7 @@
   <NODE id="39" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="14445" top="6570" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|-1|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.25|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -257,7 +257,7 @@
   <NODE id="41" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="13530" top="6555" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|0|">
+  <PIN pinname="Y Input Value" visible="1" values="|-1.5|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -281,7 +281,7 @@
   <NODE id="43" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="5340" top="16935" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|2.270000000000003|">
+  <PIN pinname="Y Input Value" visible="1" values="|1.8700000000000059|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -293,7 +293,7 @@
   </BOUNDS>
   <PIN pinname="Transform In" visible="1">
   </PIN>
-  <PIN pinname="X" visible="1">
+  <PIN pinname="X" visible="1" values="|0|">
   </PIN>
   <PIN pinname="Y" visible="1">
   </PIN>
@@ -305,7 +305,7 @@
   <NODE id="45" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="1155" top="675" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|-0.06999999999999985|">
+  <PIN pinname="Y Input Value" visible="1" values="|-0.06999999999999994|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -315,7 +315,7 @@
   <NODE id="46" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="4365" top="16545" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|-0.39000000000000007|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.10000000000000006|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -355,7 +355,7 @@
   <NODE id="55" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="3450" top="1950" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|0.25|">
+  <PIN pinname="Y Input Value" visible="1" values="|1|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -381,7 +381,7 @@
   <NODE id="57" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="5235" top="1980" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|0.5|">
+  <PIN pinname="Y Input Value" visible="1" values="|1|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -407,7 +407,7 @@
   <NODE id="59" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="4380" top="1950" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|1|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.25|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -615,7 +615,7 @@
   <NODE id="100" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
   <BOUNDS type="Node" left="5310" top="10815" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|campa1.jpg|">
+  <PIN pinname="Input 1" visible="1" values="|ccomputo1a.jpg|">
   </PIN>
   <PIN pinname="Input 2" visible="1" values="|campa1.jpg|">
   </PIN>
@@ -629,9 +629,9 @@
   </PIN>
   </NODE>
   <NODE id="101" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="6120" top="10815" width="100" height="100">
+  <BOUNDS type="Node" left="6120" top="10800" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|siladin.jpg|">
+  <PIN pinname="Input 1" visible="1" values="|campa1.jpg|">
   </PIN>
   <PIN pinname="Input 2" visible="1" values="|campa1.jpg|">
   </PIN>
@@ -649,7 +649,7 @@
   </BOUNDS>
   <PIN pinname="Input 1" visible="1" values="|campa1.jpg|">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|siladine2frente.jpg|">
+  <PIN pinname="Input 2" visible="1" values="|campa1.jpg|">
   </PIN>
   <PIN pinname="Input 3" visible="1" values="|campa1.jpg|">
   </PIN>
@@ -693,7 +693,7 @@
   <NODE id="106" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="9615" top="2130" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|0.5|">
+  <PIN pinname="Y Input Value" visible="1" values="|1|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -745,7 +745,7 @@
   <NODE id="110" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="10530" top="2115" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|1|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.25|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
